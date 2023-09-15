@@ -1,0 +1,26 @@
+    symboling: Symbolic representation of the vehicle's insurance risk rating.
+    normalized-losses: Relative average loss payment per insured vehicle year.
+    make: Manufacturer's name.
+    fuel-type: Type of fuel used (e.g., gas or diesel).
+    aspiration: Type of aspiration (e.g., std or turbo).
+    num-of-doors: Number of doors on the vehicle.
+    body-style: Body style of the vehicle (e.g., sedan, convertible).
+    drive-wheels: Type of drive wheels (e.g., 4wd, fwd, rwd).
+    engine-location: Location of the engine in the vehicle (e.g., front or rear).
+    wheel-base: Length between the centers of the front and rear wheels.
+    length: Length of the vehicle.
+    width: Width of the vehicle.
+    height: Height of the vehicle.
+    curb-weight: Weight of the vehicle without occupants or baggage.
+    engine-type: Type of engine (e.g., dohc, ohcv).
+    num-of-cylinders: Number of cylinders in the engine.
+    engine-size: Size of the engine in cubic centimeters.
+    fuel-system: Type of fuel system (e.g., mpfi, 2bbl).
+    bore: Diameter of each cylinder in the engine.
+    stroke: Length of piston stroke in the engine.
+    compression-ratio: Ratio of the maximum to minimum volume in the engine's combustion chamber.
+    horsepower: Horsepower of the vehicle.
+    peak-rpm: RPM at which the engine produces maximum horsepower.
+    city-mpg: Miles per gallon (MPG) in the city.
+    highway-mpg: Miles per gallon (MPG) on the highway.
+    price: Price of the vehicle.
