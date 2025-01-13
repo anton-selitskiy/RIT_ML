@@ -5,10 +5,10 @@
 # Syllabus
 
 [__week01__](./2025_spring/Week01_KNN/) __*k* Nearest Neighbors__
-- Similarity Principle. Metrics. *k*NN for classification. NumPy. Weighted kNN.
+- Similarity Principle. Metrics. *k*NN for classification. `NumPy`. Weighted kNN.
 
 [__week02__](./2025_spring/Week02_EDA/) __Exploratory Data Analysis__
-- Pandas. Exploratory Data Ananlysis.
+- `Pandas`. Exploratory Data Ananlysis.
 
 [__week03__](./2025_spring/Week03_LinReg/) __Linear Regression__
 - `scikit-learn` pipelines. *k*NN for regression.
@@ -35,7 +35,7 @@
 - Clusterization. Dimensionality reduction..
 
 [__week11__](./2025_spring/Week11_MPL/) __Multi-Linear Perceptron__
-- Multilayer Perceptron. Computational Graph and Automatic Differentiation..
+- Multilayer Perceptron. Computational Graph and Automatic Differentiation. `PyTorch`.
 
 [__week12__](./2025_spring/Week12_regularization/) __Regularization of NN__
 - Drop-out, Batch normalization. Activation functions. Dataset class for MNIST example. Data augmentation..
