@@ -1,6 +1,6 @@
 # Week 1 *k* Nearest Neighbors
 
-Lectures: [video 1](https://youtu.be/RFz5g2qJaTM), video 2
+Lectures: [video 1](https://youtu.be/RFz5g2qJaTM), [video 2](https://youtu.be/I8Fki9a6LlY)
 
 [Problems sets 1 and 2](./Problems_01_02.pdf) return during the first class.
 
