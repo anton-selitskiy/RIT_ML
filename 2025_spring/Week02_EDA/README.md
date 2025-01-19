@@ -2,8 +2,9 @@
 
 Lectures: video 1, video 2
 
-Coding [problems sets 4](./Problems_04.ipynb) submit on MyCourses by the end of the Tuesday's class.
+**Tuesday:** Coding [problems sets 4](./Problems_04.ipynb) submit on MyCourses by the end of the Tuesday's class.
 
+**Thursday:** [notebook](./ML4.ipynb)
 
 [Homework 2](./HW2) --- see syllabus for the deadline. Submit on MyCourses.
 
