@@ -6,6 +6,6 @@ Lectures: [video 1](https://youtu.be/TbE593kePpc), [video 2](https://youtu.be/8c
 
 **Thursday:** [notebook](./ML4.ipynb)
 
-[Homework 2](./HW2) --- see syllabus for the deadline. Submit on MyCourses. The data processing can be the same as in [feature selection notebook](https://github.com/anton-selitskiy/RIT_ML/Week04_SGD/ML7.ipynb) from Week 4.
+[Homework 2](./HW2) --- see syllabus for the deadline. Submit on MyCourses. The data processing can be the same as in [feature selection notebook](https://github.com/anton-selitskiy/RIT_ML/blob/main/2025_spring/Week04_SGD/ML7.ipynb) from Week 4.
 
 Lecture notes are in the [root](https://github.com/anton-selitskiy/RIT_ML)
