@@ -1,6 +1,6 @@
 # Week 3 Linear Model (for Regression) 
 
-Lectures: [video 1](https://youtu.be/5bAX1fKsbJs), video 2
+Lectures: [video 1](https://youtu.be/5bAX1fKsbJs), [video 2](https://youtu.be/DTeiHdRDyLA)
 
 [Problems sets 5](./Problems_05.pdf) in class (Tuesday).
 
