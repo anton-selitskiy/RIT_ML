@@ -2,8 +2,8 @@
 
 Lectures: video 1, video 2
 
-Tuesday: [notebook](./ML7.ipynb)
+Tuesday: illustration of SGD [notebook](./ML6.ipynb)
 
-Thursday: TBA 
+Thursday: [notebook](./ML7.ipynb)
 
-Homework: TBA
+Homework: HW3 extended due 02/17/2025 (see Week 3).
