@@ -1,6 +1,6 @@
 # Week 4. Feature Selection. Relularization: Ridge, Lasso, and Elastic Net.
 
-Lectures: [video 1](https://youtu.be/QBp_C1q_fx0), video 2
+Lectures: [video 1](https://youtu.be/QBp_C1q_fx0), [video 2](https://youtu.be/VayN8L6nZ1E)
 
 Tuesday: illustration of SGD [notebook](./ML7.ipynb)
 
