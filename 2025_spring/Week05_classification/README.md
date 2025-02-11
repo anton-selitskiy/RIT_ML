@@ -1,6 +1,6 @@
 # Week 5. Linear Model for Classification. Logistic Regression. Confusion Matrix.
 
-Lectures: video 1, video 2
+Lectures: [video 1](https://youtu.be/w6WNHLQkzH0), video 2
 
 Tuesday: [Problems 6](./Problems06.pdf) and [Problems 7](./Problems07.pdf) due end of class.
 
