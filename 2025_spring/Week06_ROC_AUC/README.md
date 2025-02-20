@@ -1,6 +1,6 @@
 # Week 6. Model Selection for Classification. Perceptron. Support Vector Machine (SVM)
 
-Lectures: [video 1](https://youtu.be/iopCyiL5pHE), [video 2](https://youtu.be/Ai3OkbLeMWs)
+Lectures: [video 1](https://youtu.be/iopCyiL5pHE), [video 2](https://youtu.be/ui1L3XSXE-o)
 
 Tuesday: [Problems 9](./Problems09.pdf) due end of class. Perceptron [notebook](./ML11.ipynb)
 
