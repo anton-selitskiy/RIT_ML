@@ -1,6 +1,6 @@
 # Week 7. Multiclass Classification. Bayesian Classification
 
-Lectures: [video 1](https://youtu.be/Ts6vPPXSPy0), video 2
+Lectures: [video 1](https://youtu.be/zrUW66fPV8I), video 2
 
 Tuesday: [Problems 11](./problems_11.pdf) due end of class. Illustration [notebook](./ML13.ipynb)
 
