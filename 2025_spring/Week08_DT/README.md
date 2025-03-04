@@ -1,6 +1,6 @@
 # Week 8. Decision Trees. Voting, Bagging, and Random Forest
 
-Lectures: video 1, video 2
+Lectures: [video 1](https://youtu.be/ICSSaDhgeoQ), video 2
 
 Tuesday: [Problems 13](./problems_13.pdf) due end of class. Illustration [notebook](./ML14.ipynb)
 
