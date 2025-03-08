@@ -6,4 +6,4 @@ Tuesday: [Problems 13](./problems_13.pdf) due end of class. Illustration [notebo
 
 Thursday: [Problems 14](./problems_14.pdf) due end of class. 
 
-Homework: [HW7](./HW7.ipynb) due 03/17/2025.
+Homework: [HW7](./HW7.ipynb) due 03/24/2025.
