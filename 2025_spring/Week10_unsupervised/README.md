@@ -1,6 +1,6 @@
 # Week 10. Multi-Layer Perseptron (MLP)
 
-Lectures: [video 1](https://youtu.be/CCndWHOuL7c), [video 2]
+Lectures: [video 1](https://youtu.be/CCndWHOuL7c), [video 2](https://youtu.be/YPUBEUIcAcU)
 
 Tuesday: [Problems 15](./Problems15.pdf) due the end of class
 
