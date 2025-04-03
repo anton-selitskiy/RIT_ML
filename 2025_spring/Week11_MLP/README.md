@@ -1,6 +1,6 @@
 # Week 11 Automatic Differentiation in PyTorch. Dataset and Training loop
 
-Lectures: [video 1](https://youtu.be/J3Ksv9EnLoY), [video 2]
+Lectures: [video 1](https://youtu.be/J3Ksv9EnLoY), [video 2](https://youtu.be/gDM-pIHvI8k)
 
 Tuesday: [Problems 16](./problems_16.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anton-selitskiy/RIT_ML/blob/main/2025_spring/Week11_MLP/problems_16.ipynb) due the end of the day
 
