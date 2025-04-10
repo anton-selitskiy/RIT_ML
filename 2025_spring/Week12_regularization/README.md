@@ -1,6 +1,6 @@
 # Week 12. Training tools. Activation Functions. Regularization of NN (Drop-Out and Batch Normalization)
 
-Lectures: [video 1](https://youtu.be/GVo1ENk1Jeo), [video 2]
+Lectures: [video 1](https://youtu.be/GVo1ENk1Jeo), [video 2](https://youtu.be/sNT6BRIBhik)
 
 Tuesday: [notebook](./ML23.ipynb) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/anton-selitskiy/RIT_ML/blob/main/2025_spring/Week12_regularization/ML23.ipynb)
 
