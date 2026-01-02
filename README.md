@@ -34,7 +34,7 @@
 [__week10__](./2025_spring/Week10_unsupervised/) __Unsupervised Learning__
 - Clusterization. Dimensionality reduction..
 
-[__week11__](./2025_spring/Week11_MPL/) __Multi-Linear Perceptron__
+[__week11__](./2025_spring/Week11_MPL/) __Multi-Layer Perceptron__
 - Multilayer Perceptron. Computational Graph and Automatic Differentiation. `PyTorch`.
 
 [__week12__](./2025_spring/Week12_regularization/) __Regularization of NN__
